@@ -11,7 +11,7 @@ Space Time é um aplicativo para armazenar lembranças através de imagens e tex
 
 - **Armazenamento de Lembranças:** Faça o upload de imagens e adicione descrições para guardar suas lembranças.
 - **Segurança e Privacidade:** Seus dados são armazenados de forma segura, e implementamos práticas de segurança para proteger suas informações.
-**Autenticação GitHub:** Proteja o acesso e as operações no aplicativo com autenticação GitHub.
+- **Autenticação GitHub:** Proteja o acesso e as operações no aplicativo com autenticação GitHub.
 
 ## Tecnologias Utilizadas
 
